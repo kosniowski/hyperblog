@@ -1,7 +1,7 @@
 body {
   color: #333;
   text-align: center;
-  font-family: "consolas";
+  font-family: "arial";
   font-size: 16px;
   margin: 0;
   padding: 0;
@@ -36,4 +36,11 @@ body {
 
 #post {
   padding: 1em;
+}
+
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.3em;
 }
