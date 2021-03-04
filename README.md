@@ -1,25 +1,17 @@
-<<<<<<< HEAD
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Hyperblog 💚
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
+>
+> - niñita
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## En este curso vemos de todo
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
-=======
-# hyperblog
-in blg increíble para el curso de GitHub de Platzi
->>>>>>> c40c3c78d25aad0f516afc0a400ea214c83dea6a
+- Todos los comandos de Git
+- El flujo de trabajo en Github
+- El verdadero amor por las buenas prácticas
+- Trucos muy locos del profesor
+- Las personalidades múltiples de Freddy
+
+Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
