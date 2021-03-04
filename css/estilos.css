@@ -1,19 +1,24 @@
 body {
   color: #333;
   text-align: center;
-  font-family: "consolas";
+  font-family: "arial";
   font-size: 16px;
   margin: 0;
   padding: 0;
 }
 
 #cabecera {
-  background: #33a;
+  background: #37488b;
   box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.75);
   color: white;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
+}
+
+#cabecera #logo {
+  width: 20px;
+  vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -35,5 +40,6 @@ body {
 }
 
 #post {
+  background-color: white;
   padding: 1em;
 }
